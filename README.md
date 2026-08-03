@@ -25,7 +25,7 @@ Dashboard
 - Power BI
 - DAX
 - Microsoft Excel
-- ## Features
+## Features
 
 - Executive Sales KPI Dashboard
 - Sales vs Budget Analysis
