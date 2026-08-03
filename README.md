@@ -3,6 +3,20 @@ Designed an end-to-end sales analytics dashboard in Power BI by integrating SQL 
 ## Dashboard Preview
 
 ![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
+## Work Flow
+SQL Server
+     ↓
+Data Extraction
+     ↓
+CSV/Excel
+     ↓
+Power BI
+     ↓
+Data Modeling
+     ↓
+DAX Measures
+     ↓
+Dashboard
 ## Technologies Used
 
 - SQL Server
