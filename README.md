@@ -119,4 +119,8 @@ GitHub: https://github.com/farshad2310
 ## License
 
 This project is licensed under the MIT License. See the **LICENSE** file for details.
+## Additional Documentation
 
+➡️ Business Insights: [Executive_Sales_Insights.md](Executive_Sales_Insights.md)
+
+This report summarizes the key business findings derived from the dashboard, including year-over-year performance, budget variance, customer trends, product analysis, and executive-level recommendations.
