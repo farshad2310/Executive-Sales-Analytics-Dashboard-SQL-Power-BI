@@ -65,11 +65,12 @@ Dashboard
 ✔ Interactive Filtering
 ## Key Insights
 
-- Bikes contributed over **93%** of total sales.
-- Sales exceeded the budget by **₹874,360** in December.
-- Mountain-200 series products generated the highest sales.
-- Sales showed strong growth during the final quarter.
-- North America and Europe accounted for the majority of customers.
+- Sales improved significantly from 2024 to 2025, increasing from ₹58.4 lakh to ₹1.64 crore while exceeding the annual budget by 31%.
+- Bikes consistently contributed over 90% of total revenue, highlighting both a strong core product line and a reliance on a single category.
+- Monthly sales showed a clear upward trend during 2025, peaking in December, indicating strong year-end performance.
+- The Mountain-200 product series remained the best-selling product line across multiple years.
+- Analysis of top customers revealed increased customer spending in 2025, contributing to overall revenue growth.
+- Preliminary 2026 data (January only) suggests an early shift toward accessory sales, though additional months are required for meaningful trend analysis.
 ## Skills Demonstrated
 
 - SQL
