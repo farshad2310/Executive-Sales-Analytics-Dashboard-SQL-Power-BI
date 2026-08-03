@@ -32,19 +32,3 @@ Designed an end-to-end sales analytics dashboard in Power BI by integrating SQL 
 
 - Budget Table:
     - Sales_Budget
-├── Data
-│   ├── Dim_Calendar.csv
-│   ├── Dim_Customer.csv
-│   ├── Dim_Product.csv
-│   ├── Fact_Internet_Sales.csv
-│   └── Sales_Budget.xlsx
-│
-├── SQL
-│   ├── Dim_Calendar.sql
-│   ├── Dim_Customer.sql
-│   ├── Dim_Product.sql
-│   └── Fact_Internet_Sales.sql
-│
-├── Executive_Sales_Dashboard.pbix
-├── Executive_Sales_Dashboard.png
-└── README.md
