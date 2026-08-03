@@ -2,7 +2,7 @@
 Designed an end-to-end sales analytics dashboard in Power BI by integrating SQL data extraction, star schema modeling, and DAX measures to deliver interactive insights into sales performance, budget tracking, customer trends, and product performance.
 ## Dashboard Preview
 
-![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
+![Executive Sales Dashboard](Sales_Dashboard.png)
 ## Project Overview
 This project demonstrates the development of an end-to-end Executive Sales Analytics Dashboard using SQL, Power BI, and DAX. The solution involves extracting and transforming data from the AdventureWorks database, designing a star schema data model, creating DAX measures, and building an interactive dashboard to deliver actionable business insights. Key analyses include sales performance against budget, top customers, best-selling products, product category distribution, global customer distribution, and monthly sales trends through dynamic visualizations and interactive filters.
 ## Work Flow
