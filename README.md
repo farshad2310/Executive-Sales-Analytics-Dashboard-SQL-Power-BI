@@ -101,7 +101,7 @@ Executive-Sales-Analytics-Dashboard-SQL-Power-BI
 ├── Screenshots
 │   └── Executive_Sales_Dashboard.png
 │
-├── Executive_Sales_Dashboard.pbix
+├── Sales_Dashboard.pbix
 ├── README.md
 └── LICENSE
 ```
