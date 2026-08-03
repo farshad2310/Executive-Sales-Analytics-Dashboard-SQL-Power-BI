@@ -32,3 +32,18 @@ Designed an end-to-end sales analytics dashboard in Power BI by integrating SQL 
 
 - Budget Table:
     - Sales_Budget
+## Dashboard Highlights
+
+✔ Sales vs Budget Performance
+
+✔ Top 5 Customers
+
+✔ Top 5 Best Selling Products
+
+✔ Product Category Analysis
+
+✔ Monthly Sales Trend
+
+✔ Global Customer Distribution
+
+✔ Interactive Filtering
