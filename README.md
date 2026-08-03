@@ -104,6 +104,7 @@ Executive-Sales-Analytics-Dashboard-SQL-Power-BI
 ├── Executive_Sales_Dashboard.pbix
 ├── README.md
 └── LICENSE
+```
 ## About the Dataset
 
 The project uses the **AdventureWorksDW2022** sample data warehouse provided by Microsoft. SQL scripts included in this repository were used to extract and prepare the data for Power BI analysis.
